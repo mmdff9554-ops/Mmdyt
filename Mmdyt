@@ -16,5 +16,12 @@
         "key": "mmda",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "8d561f6a30816988",
+        "key": "mikaff",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
+]
 ]
