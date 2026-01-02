@@ -1,33 +1,16 @@
 [
     {
         "device_id": "ffaa01320ef79644",
-        "key": "GHT",
+        "username": "mmd",
+        "password": "yt",
         "expirydate": "31-12-9999",
         "Allowoffline": true
     },
     {
-        "device_id": "ffaa01320ef79644",
-        "key": "mmdffyt",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-{
-        "device_id": "ffaa01320ef79644",
-        "key": "mmda",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    },
-{
-        "device_id": "8d561f6a30816988",
-        "key": "mikaff",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    },
-{
-        "device_id": "ffaa01320ef79644",
-        "key": "mmd",
-        "expirydate": "30-12-9999",
+        "device_id": "device456",
+        "username": "user2",
+        "password": "pass456",
+        "expirydate": "15-06-2025",
         "Allowoffline": false
     }
 ]
-
