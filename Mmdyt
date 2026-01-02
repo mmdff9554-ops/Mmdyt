@@ -1,15 +1,13 @@
 [
     {
-        "device_id": "ffaa01320ef79644",
-        "username": "mmd",
-        "password": "ff",
-        "expirydate": "30-12-9999",
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
         "device_id": "ffaa01320ef79644",
-        "username": "moad",
-        "password": "12",
+        "key": "SILVER",
         "expirydate": "30-12-9999",
         "Allowoffline": false
     }
